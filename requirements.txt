@@ -1,9 +1,8 @@
 ray
 transforms3d
 tqdm
-opencv-python
+opencv-python==4.2.0.34
 numba
-pycuda
 tensorboardX
 scikit-image
 trimesh~=3.9.18
